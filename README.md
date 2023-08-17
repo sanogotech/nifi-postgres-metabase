@@ -3,6 +3,10 @@ It's a framework for small scale out-of-the-box BI infrastructure.
 
 Each compoment can be replaced by a technology of you choice. Don't like postgres ? replace it with Oracle. The principles will still be the same.
 
+##  Documentation
+
+- https://www.tutorialspoint.com/apache_nifi/apache_nifi_introduction.htm
+  
 # How to run it
 
 1. Install docker https://docs.docker.com/install/
